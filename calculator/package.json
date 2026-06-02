@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Modern Calculator with Vercel Speed Insights",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step needed for static site'"
+  },
+  "keywords": ["calculator"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
